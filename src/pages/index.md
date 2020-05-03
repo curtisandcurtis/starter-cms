@@ -1,41 +1,37 @@
 ---
 templateKey: index-page
 title: A Free Website from Luke & Christopher
-body: My test body content here
 primarycolour: "#00FFAD"
 secondarycolour: "#192440"
 highcontrast: false
-companyname: Company Name
-subtitle: This is some example subtitle content that can appear under the header.
+companyname: Curtis & Curtis
+subtitle: Let us build you a free website to help you through this pandemic
 background: /img/banner-bk.jpg
 logo: /img/logo.png
-featurestitle: Smartest protection for your site
+featurestitle: Totally Free. No Strings Attached.
 features:
   featuresentry:
     - image: /img/smart-protect-1.jpg
-      body: Lorem ipsum dolor sit amet porro his no his deleniti
-      title: Anti-spam
+      body: Let this website help you go digital by generating more leads
+      title: Generate more business
     - image: /img/smart-protect-2.jpg
-      body: Ne error antiopam usu. Sed vocen concludaturque ea
-      title: Phishing Detect
+      body: Giving yourself online exposure to have a central location to direct
+        potential customers & clients
+      title: Find new business
     - image: /img/smart-protect-3.jpg
-      body: Et usu ocurreret elaboraret doctus prodesse assueverit.
-      title: Smart Scan
+      body: Allow people to be able to find your website easily, giving you more for
+        less.
+      title: Get Searchable
 services:
   serviceentry:
     - image: /img/feature-1.png
-      body: >-
-        Te iisque labitur eos, nec sale argumentum scribentur no,\
-
-        augue disputando in vim. Erat fugit sit at, ius lorem deserunt deterruisset no.
-      title: |
-        Take a look inside
+      body: The provided website will give you complete control over all copy and
+        images. Everything is customisable, even the colours.
+      title: Complete Control
     - image: /img/feature-2.png
-      body: |-
-        Duo suas detracto maiestatis ad, commodo lucilius invenire nec ad,\
-        eum et oratio disputationi. Falli lobortis his ad
-      title: |
-        Safe and reliable
+      body: Once completed, we'll still be here to help you with any queries or
+        changes you might need help to make.
+      title: Unparalleled free support
 companies:
   companyentry:
     - image: /img/client-1.png
@@ -50,8 +46,4 @@ instagramlink: //facebook.com
 ---
 ## Contact Us
 
-Te iisque labitur eos, nec sale argumentum scribentur,  
-augue disputando in vim. Erat fugit sit at, ius lorem.
-
-* Phone : 361-688-5824
-* Address : 4826 White Avenue, Corpus Christi, Texas
+If you'd like a free website, you can fill out a contact form here to get in touch
