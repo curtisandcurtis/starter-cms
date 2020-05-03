@@ -43,7 +43,4 @@ companies:
 footerbackground: /img/contact-bk.jpg
 facebooklink: //instagram.com
 instagramlink: //facebook.com
----
-## Contact Us
-
-If you'd like a free website, you can fill out a contact form here to get in touch
+contacttext: --- Contact Us If you'd like a free website, you can fill out a contact form here to get in touch
