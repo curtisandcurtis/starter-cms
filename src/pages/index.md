@@ -13,7 +13,7 @@ features:
   featuresentry:
     - image: /img/smart-protect-1.jpg
       body: Let this website help you go digital by generating more leads
-      title: Generate more business
+      title: Automate passive revenue
     - image: /img/smart-protect-2.jpg
       body: Giving yourself online exposure to have a central location to direct
         potential customers & clients
@@ -44,4 +44,4 @@ footerbackground: /img/contact-bk.jpg
 facebooklink: //instagram.com
 instagramlink: //facebook.com
 footercontact: 
-  body: --- Contact Us If you'd like a free website, you can fill out a contact form here to get in touch
+  body: If you'd like a free website, you can fill out a contact form here to get in touch

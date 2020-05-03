@@ -26,6 +26,7 @@ const Footer = ({
         <div className="container my-5">
           <div className="row justify-content-between">
             <div className="col-md-6 text-white">
+            <h2 class="font-weight-bold">Contact Us</h2>
               <ReactMarkdown source={body} style={{ color: highcontrast ? 'white' : primarycolour }} />
             </div>
             <div className="col-md-6">
