@@ -102,7 +102,7 @@ const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
   return (
     <Layout
-      body={frontmatter.contacttext}
+      body={frontmatter.footercontact.body}
       companyname={frontmatter.companyname}
       facebooklink={frontmatter.facebooklink}
       footerbackground={frontmatter.footerbackground}
@@ -143,7 +143,9 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
         title
-        contacttext
+        footercontact {
+          body
+        }
         companyname
         footerbackground {
           childImageSharp {

@@ -33,6 +33,7 @@ collections:
           - {label: Services, name: services, widget: object, fields: [{label: Service Entry, name: serviceentry, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Title, name: title, widget: text}, {label: Text, name: body, widget: "markdown"}]}]}
           - {label: Companies, name: companies, widget: object, fields: [{label: Company Entry, name: companyentry, widget: list, fields: [{label: Image, name: image, widget: image}]}]}
           - {label: "Contact Copy", name: contacttext, widget: "markdown"}
+          - {label: Footer Contact, name: footercontact, widget: object, fields: [{label: Text, name: body, widget: "markdown"}]}
           - {label: Footer Background, name: footerbackground, widget: image}
           - {label: "Facebook Link", name: "facebooklink", widget: string}
           - {label: "Instagram Link", name: "instagramlink", widget: string}

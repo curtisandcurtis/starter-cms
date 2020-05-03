@@ -103,7 +103,7 @@ const FeatureGrid = ({
                     data-aos-once="true"
                     className="col-md-6 flex-md-last"
                   >
-                    <h2 className="font-weight-bold" style={{ color: highcontrast ? 'white' : ''}}>{x.title} inner</h2>
+                    <h2 className="font-weight-bold" style={{ color: highcontrast ? 'white' : ''}}>{x.title}</h2>
                     <p className="my-4" style={{ color: highcontrast ? 'white' : ''}}>{x.body}</p>
                     <a
                       href="#contact"
